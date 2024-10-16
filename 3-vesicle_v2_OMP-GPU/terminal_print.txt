@@ -1,0 +1,1 @@
+ simulation starts at istep =     30000000  at time =    6000.0000000000000     

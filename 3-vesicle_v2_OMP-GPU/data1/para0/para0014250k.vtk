@@ -1,0 +1,27 @@
+# vtk DataFile Version 3.0
+a stupid file
+ASCII
+DATASET UNSTRUCTURED_GRID
+POINTS 5 float
+istep =        14250000
+    6.873565   10.604838    0.113336
+   16.510973    6.873538   17.142460
+    5.508279   14.314999    0.520381
+    4.466522    5.358390    1.343115
+    3.448321    9.552679    6.471737
+ 
+CELL_TYPES 5
+1
+1
+1
+1
+1
+ 
+POINT_DATA 5
+SCALARS index float 1
+LOOKUP_TABLE default
+  1.0
+  1.0
+  1.0
+  1.0
+  1.0

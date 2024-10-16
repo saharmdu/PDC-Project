@@ -1,0 +1,8 @@
+This is a base file for RS version 2.1
+
+before using it check for the necessary condition in param.f90, main.f90
+
+check for the output timings in zero.f90: iend, iout0, iout1, iout2, iout3
+
+modify the initial file in seed, restart_500
+

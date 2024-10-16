@@ -1,0 +1,50 @@
+****************************************************************
+
+  HLGD, a program for sheared lubrication dynamics simulations.  
+
+****************************************************************
+
+Initialize particle positions from file: D3N500VF0.55Bidi1.4_0.5Cubic_1_.dat
+
+Number of particles   =    5
+Radii of particles    =   1.00  1.40
+Box size (Lx, Ly, Lz) =  17.7452 17.7452 17.7452
+Particle vol fraction =   0.55
+
+--- Particle parameters ---
+
+normal spring const     =  10000.  [mass/time^2]
+normal damping coef     =      0.  [mass/time]
+tangential spring const =   2857.  [mass/time^2]
+sliding coef (Coulomb)  =      0.5 [1]
+
+--- Fluid properties ---
+
+dynamic viscosity =  1.000  [mass/(time*length)]
+shear rate        =  0.010  [1/time]
+
+--- Non-dimensional numbers ---
+
+Stokes number (St)          = 1.000E-02
+Stiffness-scaled shear rate = 2.828E-04
+Electrostatic repulsion scaled shear rate = 1.000E+01
+Friction-scaled shear rate  = infinity (always activate friction)
+
+Time step (dt) = 2.000E-04
+Total (i)steps =     500000
+Total periods =         1
+
+Begin time marching...
+progress:  10%
+progress:  20%
+progress:  30%
+progress:  40%
+progress:  50%
+progress:  60%
+progress:  70%
+progress:  80%
+progress:  90%
+progress: 100%
+
+Total computing time = 3.606E+00 min.
+(Neighbor 37.8%, F&T compute 60.6%.)

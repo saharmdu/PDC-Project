@@ -1,0 +1,11 @@
+# vtk DataFile Version 3.0
+a stupid file
+ASCII
+DATASET UNSTRUCTURED_GRID
+POINTS 5 float
+istep =          900000
+    6.873565   -3.955595    0.113336
+   16.510973   16.755640   17.142460
+    5.508279  -11.113538    0.520381
+    4.466522   -6.546771    1.343115
+    3.448321    2.674835    6.471737
